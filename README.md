@@ -4,7 +4,7 @@ This demo showcases the use of Secret Network viewing keys, which are unique, ra
 
 To use this dapp:
 
-1. Connect your keplr wallet by clicking the wallet icon (Make sure your dapp has the Secret Network testnet enabled). (https://docs.scrt.network/secret-network-documentation/development/testnet) [To add the testnet to your keplr wallet and fund it, view the Secret Network docs here.]
+1. Connect your keplr wallet by clicking the wallet icon (Make sure your dapp has the Secret Network testnet enabled). [To add the testnet to your keplr wallet and fund it, view the Secret Network docs here] (https://docs.scrt.network/secret-network-documentation/development/testnet).
 
 2. Create a business card and approve the wallet transaction.
 
