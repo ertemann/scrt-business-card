@@ -200,4 +200,3 @@ fn query_card(deps: Deps, wallet: Addr, viewing_key: String, index: u8) -> StdRe
         ))
     }
 }
-//https://docs.scrt.network/secret-network-documentation/development/snips/snip-24-query-permits-for-snip-20-tokens#data-structures

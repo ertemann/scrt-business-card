@@ -69,7 +69,7 @@ export default function CreateCard({
       .filter((x) => x.type === "wasm")[0]
       .attributes.filter((x) => x.key === "viewing_key")[0].value;
     setViewingKey(viewing_key);
-    console.log(viewing_key);
+    console.log("Viewing Key: ", viewing_key);
   };
   // createCard();
 
